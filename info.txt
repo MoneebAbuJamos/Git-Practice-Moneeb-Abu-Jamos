@@ -1,0 +1,51 @@
+
+# Full Name: مُنيب رمضان أبو جاموس
+
+Languages: Native Arabic speaker, Advanced English (B1 level confirmed)
+
+Nationality/Region: Jordanian 
+
+# Education
+University: Tafila Technical University
+
+Program: Intelligent Systems Engineering
+
+Status:graduating in July 2025
+
+GPA: Very Good (78.55)
+
+Credit Hours Completed: 161
+
+University ID: 320200112143
+
+# Contact Information
+Email: moneeb.eng.ise@gmail.com
+
+Phone Number: +962789959598
+
+# Technical Skills
+Programming: Python, C, Shell scripting, SQL
+
+Machine Learning & AI: TensorFlow, OpenCV, Scikit-learn, LangChain, OpenAI API
+
+Tools & Concepts: Data preprocessing, RAG systems, digital controllers, Git/GitHub
+
+Languages/Technologies: Generative AI, ML algorithms, API integration
+
+# Projects
+RAG System using OpenAI + LangChain
+
+ML-based Credit Card Approval Prediction (Kaggle)
+
+Digital Temperature Controller with Arduino
+
+Analytical vs Monte Carlo simulation for physical-layer security
+
+# Job Interests
+Actively seeking full-time work in the fields of:
+
+Machine Learning / AI
+
+Data Engineering / Analysis
+
+Software Development (Python-based)
